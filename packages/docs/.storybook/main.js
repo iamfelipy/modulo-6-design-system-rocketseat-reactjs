@@ -22,7 +22,7 @@ module.exports = {
       // esse caminho não vai funcionar
       // precisar o mesmo nome do repositorio do github pages que o projeto esta
       // criei um repositorio so pra esse modulo para poder fazer o deploy
-      config.base = '/05-design-system/'
+      config.base = '/modulo-6-design-system-rocketseat-reactjs/'
     }
 
     return config
