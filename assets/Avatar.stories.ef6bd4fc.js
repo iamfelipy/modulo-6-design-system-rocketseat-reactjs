@@ -1,0 +1,2 @@
+import{A as t}from"./index.a12ab15e.js";import"./index.b5686a4d.js";import"./iframe.2ee38023.js";import"./jsx-runtime.55df4d97.js";import"./index.31aeed35.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/iamfelipy.png",alt:"Felipy Camargo"},argTypes:{src:{control:{type:"text"}}}},m={},c={args:{src:""}},e=["Primary","WithFallback"];export{m as Primary,c as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.ef6bd4fc.js.map
