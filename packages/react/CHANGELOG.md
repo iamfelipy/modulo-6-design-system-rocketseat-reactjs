@@ -1,11 +1,5 @@
 # @felipy-ui/react
 
-## 3.2.0
-
-### Minor Changes
-
-- add toast
-
 ## 3.1.0
 
 ### Minor Changes
